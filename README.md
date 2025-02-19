@@ -1,0 +1,1 @@
+Desarrollar un sitio web, que reciba por GET, un nombre y una edad. Crear dos variables una que contenga "Juan" y la otra que contenga 35. Comprobar si el nombre recibido es igual a la variable creada con valor "Juan". Si la condición es verdadera, sumar la edad recibida con la edad de la variable creada e imprimir el resultado
